@@ -1,0 +1,2241 @@
+[
+  {
+    "category": "Best Picture",
+    "year": "2023",
+    "nominees": [
+      "Oppenheimer"
+    ],
+    "movies": [
+      {
+        "title": "Oppenheimer",
+        "tmdb_id": 872585,
+        "imdb_id": "tt15398776",
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+      }
+    ],
+    "won": true,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Picture",
+    "year": "2023",
+    "nominees": [
+      "American Fiction"
+    ],
+    "movies": [
+      {
+        "title": "American Fiction",
+        "tmdb_id": 1056360,
+        "imdb_id": "tt23561236",
+        "poster_path": "/57MFWGHarg9jid7yfDTka4RmcMU.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Picture",
+    "year": "2023",
+    "nominees": [
+      "Anatomy of a Fall"
+    ],
+    "movies": [
+      {
+        "title": "Anatomy of a Fall",
+        "tmdb_id": 915935,
+        "imdb_id": "tt17009710",
+        "poster_path": "/kQs6keheMwCxJxrzV83VUwFtHkB.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Picture",
+    "year": "2023",
+    "nominees": [
+      "Barbie"
+    ],
+    "movies": [
+      {
+        "title": "Barbie",
+        "tmdb_id": 346698,
+        "imdb_id": "tt1517268",
+        "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Picture",
+    "year": "2023",
+    "nominees": [
+      "The Holdovers"
+    ],
+    "movies": [
+      {
+        "title": "The Holdovers",
+        "tmdb_id": 840430,
+        "imdb_id": "tt14849194",
+        "poster_path": "/VHSzNBTwxV8vh7wylo7O9CLdac.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Picture",
+    "year": "2023",
+    "nominees": [
+      "Killers of the Flower Moon"
+    ],
+    "movies": [
+      {
+        "title": "Killers of the Flower Moon",
+        "tmdb_id": 466420,
+        "imdb_id": "tt5537002",
+        "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Picture",
+    "year": "2023",
+    "nominees": [
+      "Maestro"
+    ],
+    "movies": [
+      {
+        "title": "Maestro",
+        "tmdb_id": 523607,
+        "imdb_id": "tt5535276",
+        "poster_path": "/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Picture",
+    "year": "2023",
+    "nominees": [
+      "Past Lives"
+    ],
+    "movies": [
+      {
+        "title": "Past Lives",
+        "tmdb_id": 666277,
+        "imdb_id": "tt13238346",
+        "poster_path": "/rzO71VFu7CpJMfF5TQNMj0d1lSV.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Picture",
+    "year": "2023",
+    "nominees": [
+      "Poor Things"
+    ],
+    "movies": [
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458",
+        "poster_path": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Picture",
+    "year": "2023",
+    "nominees": [
+      "The Zone of Interest"
+    ],
+    "movies": [
+      {
+        "title": "The Zone of Interest",
+        "tmdb_id": 467244,
+        "imdb_id": "tt7160372",
+        "poster_path": "/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Actor",
+    "year": "2023",
+    "nominees": [
+      "Cillian Murphy"
+    ],
+    "movies": [
+      {
+        "title": "Oppenheimer",
+        "tmdb_id": 872585,
+        "imdb_id": "tt15398776"
+      }
+    ],
+    "won": true,
+    "nomineesData": [
+      {
+        "name": "Cillian Murphy",
+        "id": 2037,
+        "profile_path": "/llkbyWKwpfowZ6C8peBjIV9jj99.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Actor",
+    "year": "2023",
+    "nominees": [
+      "Bradley Cooper"
+    ],
+    "movies": [
+      {
+        "title": "Maestro",
+        "tmdb_id": 523607,
+        "imdb_id": "tt5535276"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Bradley Cooper",
+        "id": 51329,
+        "profile_path": "/rVyVoBJl8WBM5kq6gFobV3Fgcay.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Actor",
+    "year": "2023",
+    "nominees": [
+      "Colman Domingo"
+    ],
+    "movies": [
+      {
+        "title": "Rustin",
+        "tmdb_id": 898713,
+        "imdb_id": "tt14160834"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Colman Domingo",
+        "id": 91671,
+        "profile_path": "/2tu6T9ugnf82qIMGVKWSb0dvvq5.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Actor",
+    "year": "2023",
+    "nominees": [
+      "Paul Giamatti"
+    ],
+    "movies": [
+      {
+        "title": "The Holdovers",
+        "tmdb_id": 840430,
+        "imdb_id": "tt14849194"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Paul Giamatti",
+        "id": 13242,
+        "profile_path": "/kn7LAbFYP5RPC2r61tDx2CRUeuw.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Actor",
+    "year": "2023",
+    "nominees": [
+      "Jeffrey Wright"
+    ],
+    "movies": [
+      {
+        "title": "American Fiction",
+        "tmdb_id": 1056360,
+        "imdb_id": "tt23561236"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Jeffrey Wright",
+        "id": 2954,
+        "profile_path": "/yGcuHGW4glqRpOPxgiCvjcren7F.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Actress",
+    "year": "2023",
+    "nominees": [
+      "Emma Stone"
+    ],
+    "movies": [
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458"
+      }
+    ],
+    "won": true,
+    "nomineesData": [
+      {
+        "name": "Emma Stone",
+        "id": 54693,
+        "profile_path": "/8NwSfyYWIIUE1cI9Xhz92b0w7WD.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Actress",
+    "year": "2023",
+    "nominees": [
+      "Annette Bening"
+    ],
+    "movies": [
+      {
+        "title": "NYAD",
+        "tmdb_id": 895549,
+        "imdb_id": "tt5302918"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Annette Bening",
+        "id": 516,
+        "profile_path": "/sBiiRwAVXd0FCRZ87m0I89qGBvy.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Actress",
+    "year": "2023",
+    "nominees": [
+      "Lily Gladstone"
+    ],
+    "movies": [
+      {
+        "title": "Killers of the Flower Moon",
+        "tmdb_id": 466420,
+        "imdb_id": "tt5537002"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Lily Gladstone",
+        "id": 1183917,
+        "profile_path": "/zYAN84WqZv2sbVE2JDkcWoXGoF7.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Actress",
+    "year": "2023",
+    "nominees": [
+      "Sandra Huller"
+    ],
+    "movies": [
+      {
+        "title": "Anatomy of a Fall",
+        "tmdb_id": 915935,
+        "imdb_id": "tt17009710"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Sandra Hüller",
+        "id": 7152,
+        "profile_path": "/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Actress",
+    "year": "2023",
+    "nominees": [
+      "Carey Mulligan"
+    ],
+    "movies": [
+      {
+        "title": "Maestro",
+        "tmdb_id": 523607,
+        "imdb_id": "tt5535276"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Carey Mulligan",
+        "id": 36662,
+        "profile_path": "/gGpxFx3yWWEeRm9inW8Ac8GoJ5A.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Supporting Actor",
+    "year": "2023",
+    "nominees": [
+      "Robert Downey Jr."
+    ],
+    "movies": [
+      {
+        "title": "Oppenheimer",
+        "tmdb_id": 872585,
+        "imdb_id": "tt15398776"
+      }
+    ],
+    "won": true,
+    "nomineesData": [
+      {
+        "name": "Robert Downey Jr.",
+        "id": 3223,
+        "profile_path": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Supporting Actor",
+    "year": "2023",
+    "nominees": [
+      "Sterling K. Brown"
+    ],
+    "movies": [
+      {
+        "title": "American Fiction",
+        "tmdb_id": 1056360,
+        "imdb_id": "tt23561236"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Sterling K. Brown",
+        "id": 1225953,
+        "profile_path": "/vjFATaJfAyBie56J4Qv2DQ9Dyem.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Supporting Actor",
+    "year": "2023",
+    "nominees": [
+      "Robert De Niro"
+    ],
+    "movies": [
+      {
+        "title": "Killers of the Flower Moon",
+        "tmdb_id": 466420,
+        "imdb_id": "tt5537002"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Robert De Niro",
+        "id": 380,
+        "profile_path": "/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Supporting Actor",
+    "year": "2023",
+    "nominees": [
+      "Ryan Gosling"
+    ],
+    "movies": [
+      {
+        "title": "Barbie",
+        "tmdb_id": 346698,
+        "imdb_id": "tt1517268"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Ryan Gosling",
+        "id": 30614,
+        "profile_path": "/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Supporting Actor",
+    "year": "2023",
+    "nominees": [
+      "Mark Ruffalo"
+    ],
+    "movies": [
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Mark Ruffalo",
+        "id": 103,
+        "profile_path": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Supporting Actress",
+    "year": "2023",
+    "nominees": [
+      "Da'Vine Joy Randolph"
+    ],
+    "movies": [
+      {
+        "title": "The Holdovers",
+        "tmdb_id": 840430,
+        "imdb_id": "tt14849194"
+      }
+    ],
+    "won": true,
+    "nomineesData": [
+      {
+        "name": "Da'Vine Joy Randolph",
+        "id": 1180099,
+        "profile_path": "/7RuYeGxTwFRt2q8fkT8nuEz1nIC.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Supporting Actress",
+    "year": "2023",
+    "nominees": [
+      "Emily Blunt"
+    ],
+    "movies": [
+      {
+        "title": "Oppenheimer",
+        "tmdb_id": 872585,
+        "imdb_id": "tt15398776"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Emily Blunt",
+        "id": 5081,
+        "profile_path": "/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Supporting Actress",
+    "year": "2023",
+    "nominees": [
+      "Danielle Brooks"
+    ],
+    "movies": [
+      {
+        "title": "The Color Purple",
+        "tmdb_id": 558915,
+        "imdb_id": "tt1200263"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Danielle Brooks",
+        "id": 1075037,
+        "profile_path": "/pIBSSigZATyYZYjfCL59Nw6FjbM.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Supporting Actress",
+    "year": "2023",
+    "nominees": [
+      "America Ferrera"
+    ],
+    "movies": [
+      {
+        "title": "Barbie",
+        "tmdb_id": 346698,
+        "imdb_id": "tt1517268"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "America Ferrera",
+        "id": 59174,
+        "profile_path": "/dhiUliLE7dFaqj5BKNQ6x7Wm9uR.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Supporting Actress",
+    "year": "2023",
+    "nominees": [
+      "Jodie Foster"
+    ],
+    "movies": [
+      {
+        "title": "NYAD",
+        "tmdb_id": 895549,
+        "imdb_id": "tt5302918"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Jodie Foster",
+        "id": 1038,
+        "profile_path": "/resiaRfWvj4N84TgJi9DPOafCpq.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Director",
+    "year": "2023",
+    "nominees": [
+      "Christopher Nolan"
+    ],
+    "movies": [
+      {
+        "title": "Oppenheimer",
+        "tmdb_id": 872585,
+        "imdb_id": "tt15398776"
+      }
+    ],
+    "won": true,
+    "nomineesData": [
+      {
+        "name": "Christopher Nolan",
+        "id": 525,
+        "profile_path": "/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Director",
+    "year": "2023",
+    "nominees": [
+      "Justine Triet"
+    ],
+    "movies": [
+      {
+        "title": "Anatomy of a Fall",
+        "tmdb_id": 915935,
+        "imdb_id": "tt17009710"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Justine Triet",
+        "id": 1175620,
+        "profile_path": "/mOn5lo038i8vw6qqJTwKw35KCL7.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Director",
+    "year": "2023",
+    "nominees": [
+      "Martin Scorsese"
+    ],
+    "movies": [
+      {
+        "title": "Killers of the Flower Moon",
+        "tmdb_id": 466420,
+        "imdb_id": "tt5537002"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Martin Scorsese",
+        "id": 1032,
+        "profile_path": "/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Director",
+    "year": "2023",
+    "nominees": [
+      "Yorgos Lanthimos"
+    ],
+    "movies": [
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Yorgos Lanthimos",
+        "id": 122423,
+        "profile_path": "/dvtv8eV1O8Fl385ctOu3sqO2PbD.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Director",
+    "year": "2023",
+    "nominees": [
+      "Jonathan Glazer"
+    ],
+    "movies": [
+      {
+        "title": "The Zone of Interest",
+        "tmdb_id": 467244,
+        "imdb_id": "tt7160372"
+      }
+    ],
+    "won": false,
+    "nomineesData": [
+      {
+        "name": "Jonathan Glazer",
+        "id": 66728,
+        "profile_path": "/lGaM7P0vjhhWs5EmIecsN6PYfxG.jpg"
+      }
+    ],
+    "categoryType": "person"
+  },
+  {
+    "category": "Best Adapted Screenplay",
+    "year": "2023",
+    "nominees": [
+      "Cord Jefferson"
+    ],
+    "movies": [
+      {
+        "title": "American Fiction",
+        "tmdb_id": 1056360,
+        "imdb_id": "tt23561236",
+        "poster_path": "/57MFWGHarg9jid7yfDTka4RmcMU.jpg"
+      }
+    ],
+    "won": true,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Adapted Screenplay",
+    "year": "2023",
+    "nominees": [
+      "Greta Gerwig",
+      "Noah Baumbach"
+    ],
+    "movies": [
+      {
+        "title": "Barbie",
+        "tmdb_id": 346698,
+        "imdb_id": "tt1517268",
+        "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Adapted Screenplay",
+    "year": "2023",
+    "nominees": [
+      "Christopher Nolan"
+    ],
+    "movies": [
+      {
+        "title": "Oppenheimer",
+        "tmdb_id": 872585,
+        "imdb_id": "tt15398776",
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Adapted Screenplay",
+    "year": "2023",
+    "nominees": [
+      "Tony McNamara"
+    ],
+    "movies": [
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458",
+        "poster_path": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Adapted Screenplay",
+    "year": "2023",
+    "nominees": [
+      "Jonathan Glazer"
+    ],
+    "movies": [
+      {
+        "title": "The Zone of Interest",
+        "tmdb_id": 467244,
+        "imdb_id": "tt7160372",
+        "poster_path": "/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Original Screenplay",
+    "year": "2023",
+    "nominees": [
+      "Justine Triet",
+      "Arthur Harari"
+    ],
+    "movies": [
+      {
+        "title": "Anatomy of a Fall",
+        "tmdb_id": 915935,
+        "imdb_id": "tt17009710",
+        "poster_path": "/kQs6keheMwCxJxrzV83VUwFtHkB.jpg"
+      }
+    ],
+    "won": true,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Original Screenplay",
+    "year": "2023",
+    "nominees": [
+      "David Hemingson"
+    ],
+    "movies": [
+      {
+        "title": "The Holdovers",
+        "tmdb_id": 840430,
+        "imdb_id": "tt14849194",
+        "poster_path": "/VHSzNBTwxV8vh7wylo7O9CLdac.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Original Screenplay",
+    "year": "2023",
+    "nominees": [
+      "Bradley Cooper",
+      "Josh Singer"
+    ],
+    "movies": [
+      {
+        "title": "Maestro",
+        "tmdb_id": 523607,
+        "imdb_id": "tt5535276",
+        "poster_path": "/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Original Screenplay",
+    "year": "2023",
+    "nominees": [
+      "Samy Burch",
+      "Alex Mechanik"
+    ],
+    "movies": [
+      {
+        "title": "May December",
+        "tmdb_id": 839369,
+        "imdb_id": "tt13651794",
+        "poster_path": "/zhV7B610l7hjlri4ywikJ18ONuq.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Original Screenplay",
+    "year": "2023",
+    "nominees": [
+      "Celine Song"
+    ],
+    "movies": [
+      {
+        "title": "Past Lives",
+        "tmdb_id": 666277,
+        "imdb_id": "tt13238346",
+        "poster_path": "/rzO71VFu7CpJMfF5TQNMj0d1lSV.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Score",
+    "year": "2023",
+    "nominees": [
+      "Ludwig Goransson"
+    ],
+    "movies": [
+      {
+        "title": "Oppenheimer",
+        "tmdb_id": 872585,
+        "imdb_id": "tt15398776",
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+      }
+    ],
+    "won": true,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Score",
+    "year": "2023",
+    "nominees": [
+      "Laura Karpman"
+    ],
+    "movies": [
+      {
+        "title": "American Fiction",
+        "tmdb_id": 1056360,
+        "imdb_id": "tt23561236",
+        "poster_path": "/57MFWGHarg9jid7yfDTka4RmcMU.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Score",
+    "year": "2023",
+    "nominees": [
+      "John Williams"
+    ],
+    "movies": [
+      {
+        "title": "Indiana Jones and the Dial of Destiny",
+        "tmdb_id": 335977,
+        "imdb_id": "tt1462764",
+        "poster_path": "/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Score",
+    "year": "2023",
+    "nominees": [
+      "Robbie Robertson"
+    ],
+    "movies": [
+      {
+        "title": "Killers of the Flower Moon",
+        "tmdb_id": 466420,
+        "imdb_id": "tt5537002",
+        "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Score",
+    "year": "2023",
+    "nominees": [
+      "Jerskin Fendrix"
+    ],
+    "movies": [
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458",
+        "poster_path": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Original Song",
+    "year": "2023",
+    "nominees": [
+      "What Was I Made For?"
+    ],
+    "movies": [
+      {
+        "title": "Barbie",
+        "tmdb_id": 346698,
+        "imdb_id": "tt1517268",
+        "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+      }
+    ],
+    "won": true,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Original Song",
+    "year": "2023",
+    "nominees": [
+      "The Fire Inside"
+    ],
+    "movies": [
+      {
+        "title": "Flamin' Hot",
+        "tmdb_id": 626332,
+        "imdb_id": "tt8105234",
+        "poster_path": "/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Original Song",
+    "year": "2023",
+    "nominees": [
+      "I'm Just Ken"
+    ],
+    "movies": [
+      {
+        "title": "Barbie",
+        "tmdb_id": 346698,
+        "imdb_id": "tt1517268",
+        "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Original Song",
+    "year": "2023",
+    "nominees": [
+      "It Never Went Away"
+    ],
+    "movies": [
+      {
+        "title": "American Symphony",
+        "tmdb_id": 1171816,
+        "imdb_id": "tt28865980",
+        "poster_path": "/skfO62LOEg805x9fMYeEDQRorXP.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Original Song",
+    "year": "2023",
+    "nominees": [
+      "Wahzhazhe (A Song for My People)"
+    ],
+    "movies": [
+      {
+        "title": "Killers of the Flower Moon",
+        "tmdb_id": 466420,
+        "imdb_id": "tt5537002",
+        "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best International Feature Film",
+    "year": "2023",
+    "nominees": [
+      "The Zone of Interest"
+    ],
+    "movies": [
+      {
+        "title": "The Zone of Interest",
+        "tmdb_id": 467244,
+        "imdb_id": "tt7160372",
+        "poster_path": "/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg"
+      }
+    ],
+    "won": true,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best International Feature Film",
+    "year": "2023",
+    "nominees": [
+      "Io Capitano"
+    ],
+    "movies": [
+      {
+        "title": "Io Capitano",
+        "tmdb_id": 937746,
+        "imdb_id": "tt14225838",
+        "poster_path": "/kGlZFwUQI5gAUdySNFfqGIkAF9n.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best International Feature Film",
+    "year": "2023",
+    "nominees": [
+      "Perfect Days"
+    ],
+    "movies": [
+      {
+        "title": "Perfect Days",
+        "tmdb_id": 976893,
+        "imdb_id": "tt27503384",
+        "poster_path": "/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best International Feature Film",
+    "year": "2023",
+    "nominees": [
+      "Society of the Snow"
+    ],
+    "movies": [
+      {
+        "title": "Society of the Snow",
+        "tmdb_id": 906126,
+        "imdb_id": "tt16277242",
+        "poster_path": "/2e853FDVSIso600RqAMunPxiZjq.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best International Feature Film",
+    "year": "2023",
+    "nominees": [
+      "The Teachers' Lounge"
+    ],
+    "movies": [
+      {
+        "title": "The Teachers' Lounge",
+        "tmdb_id": 998022,
+        "imdb_id": "tt26612950",
+        "poster_path": "/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Documentary Feature",
+    "year": "2023",
+    "nominees": [
+      "20 Days in Mariupol"
+    ],
+    "movies": [
+      {
+        "title": "20 Days in Mariupol",
+        "tmdb_id": 1058616,
+        "imdb_id": "tt24082438",
+        "poster_path": "/zIRp1IeuPh4GgqFCH3y0DQuY9xP.jpg"
+      }
+    ],
+    "won": true,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Documentary Feature",
+    "year": "2023",
+    "nominees": [
+      "Bobi Wine: The People's President"
+    ],
+    "movies": [
+      {
+        "title": "Bobi Wine: The People's President",
+        "tmdb_id": 1004683,
+        "imdb_id": "tt21376900",
+        "poster_path": "/gehzAC8zE85Qiyn5HcXgiky7W1W.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Documentary Feature",
+    "year": "2023",
+    "nominees": [
+      "The Eternal Memory"
+    ],
+    "movies": [
+      {
+        "title": "The Eternal Memory",
+        "tmdb_id": 1032760,
+        "imdb_id": "tt24082488",
+        "poster_path": "/dKIcHpK6EtKocvE2PHVfmkYtrdK.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Documentary Feature",
+    "year": "2023",
+    "nominees": [
+      "Four Daughters"
+    ],
+    "movies": [
+      {
+        "title": "Four Daughters",
+        "tmdb_id": 1069193,
+        "imdb_id": "tt27502426",
+        "poster_path": "/iSpJ6fg1OOSO30IUkZskZDufVzN.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Documentary Feature",
+    "year": "2023",
+    "nominees": [
+      "To Kill a Tiger"
+    ],
+    "movies": [
+      {
+        "title": "To Kill a Tiger",
+        "tmdb_id": 1015356,
+        "imdb_id": "tt21688772",
+        "poster_path": "/qxzaYYRAH6gZoyJlnajCvYeL6Ms.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Documentary Short",
+    "year": "2023",
+    "nominees": [
+      "The Last Repair Shop"
+    ],
+    "movies": [
+      {
+        "title": "The Last Repair Shop",
+        "tmdb_id": 1171861,
+        "imdb_id": "tt29118186",
+        "poster_path": "/9BWy7bgE4nTXf7hhooFNqVBJXgU.jpg"
+      }
+    ],
+    "won": true,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Documentary Short",
+    "year": "2023",
+    "nominees": [
+      "The ABCs of Book Banning"
+    ],
+    "movies": [
+      {
+        "title": "The ABCs of Book Banning",
+        "tmdb_id": 1186227,
+        "imdb_id": "tt29361805",
+        "poster_path": "/wcgYS6gv9dA0jBaQQft2eLjPAh0.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Documentary Short",
+    "year": "2023",
+    "nominees": [
+      "The Barber of Little Rock"
+    ],
+    "movies": [
+      {
+        "title": "The Barber of Little Rock",
+        "tmdb_id": 1186247,
+        "imdb_id": "tt28627868",
+        "poster_path": "/eSikhf6EozXT94zCG4uX2eIuE16.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Documentary Short",
+    "year": "2023",
+    "nominees": [
+      "Island in Between"
+    ],
+    "movies": [
+      {
+        "title": "Island in Between",
+        "tmdb_id": 1203439,
+        "imdb_id": "tt30523942",
+        "poster_path": "/2tTXYn0BulJurNxtiSMV6eAfrTF.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Documentary Short",
+    "year": "2023",
+    "nominees": [
+      "Nǎi Nai & Wài Pó"
+    ],
+    "movies": [
+      {
+        "title": "Nǎi Nai & Wài Pó",
+        "tmdb_id": 1085779,
+        "imdb_id": "tt26218316",
+        "poster_path": "/uHYoNVM5vhgTO7zYgDsQsewEYLO.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Animated Feature",
+    "year": "2023",
+    "nominees": [
+      "The Boy and the Heron"
+    ],
+    "movies": [
+      {
+        "title": "The Boy and the Heron",
+        "tmdb_id": 508883,
+        "imdb_id": "tt6587046",
+        "poster_path": "/f4oZTcfGrVTXKTWg157AwikXqmP.jpg"
+      }
+    ],
+    "won": true,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Animated Feature",
+    "year": "2023",
+    "nominees": [
+      "Elemental"
+    ],
+    "movies": [
+      {
+        "title": "Elemental",
+        "tmdb_id": 976573,
+        "imdb_id": "tt15789038",
+        "poster_path": "/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Animated Feature",
+    "year": "2023",
+    "nominees": [
+      "Nimona"
+    ],
+    "movies": [
+      {
+        "title": "Nimona",
+        "tmdb_id": 961323,
+        "imdb_id": "tt19500164",
+        "poster_path": "/2NQljeavtfl22207D1kxLpa4LS3.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Animated Feature",
+    "year": "2023",
+    "nominees": [
+      "Robot Dreams"
+    ],
+    "movies": [
+      {
+        "title": "Robot Dreams",
+        "tmdb_id": 838240,
+        "imdb_id": "tt13429870",
+        "poster_path": "/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Animated Feature",
+    "year": "2023",
+    "nominees": [
+      "Spider-Man: Across the Spider-Verse"
+    ],
+    "movies": [
+      {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "tmdb_id": 569094,
+        "imdb_id": "tt9362722",
+        "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Animated Short",
+    "year": "2023",
+    "nominees": [
+      "WAR IS OVER! Inspired by the Music of John & Yoko"
+    ],
+    "movies": [
+      {
+        "title": "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "tmdb_id": 1214020,
+        "imdb_id": "tt29795707",
+        "poster_path": "/9KYGdXn49rFgjDdVIEc9jKiHDAP.jpg"
+      }
+    ],
+    "won": true,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Animated Short",
+    "year": "2023",
+    "nominees": [
+      "Letter to a Pig"
+    ],
+    "movies": [
+      {
+        "title": "Letter to a Pig",
+        "tmdb_id": 950810,
+        "imdb_id": "tt10346066",
+        "poster_path": "/fu5xL4pEFBOt8FhDgCqyeDICTqt.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Animated Short",
+    "year": "2023",
+    "nominees": [
+      "Ninety-Five Senses"
+    ],
+    "movies": [
+      {
+        "title": "Ninety-Five Senses",
+        "tmdb_id": 1040371,
+        "imdb_id": "tt11020596",
+        "poster_path": "/A6OsRYbbAglRu7W3z9NM83acr2O.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Animated Short",
+    "year": "2023",
+    "nominees": [
+      "Our Uniform"
+    ],
+    "movies": [
+      {
+        "title": "Our Uniform",
+        "tmdb_id": 1140605,
+        "imdb_id": "tt28058015",
+        "poster_path": "/snlg7HFl14pJLTROxdpG0i5EFDX.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Animated Short",
+    "year": "2023",
+    "nominees": [
+      "Pachyderm"
+    ],
+    "movies": [
+      {
+        "title": "Pachyderm",
+        "tmdb_id": 950822,
+        "imdb_id": "tt20862526",
+        "poster_path": "/kmXoJpg0Zu3r1RoupIvyXWLcJeq.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
+    "year": "2023",
+    "nominees": [
+      "The Wonderful Story of Henry Sugar"
+    ],
+    "movies": [
+      {
+        "title": "The Wonderful Story of Henry Sugar",
+        "tmdb_id": 923939,
+        "imdb_id": "tt16968450",
+        "poster_path": "/fDUywEHwHh6nsLnVXAdPN9m4ZUG.jpg"
+      }
+    ],
+    "won": true,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
+    "year": "2023",
+    "nominees": [
+      "The After"
+    ],
+    "movies": [
+      {
+        "title": "The After",
+        "tmdb_id": 1169455,
+        "imdb_id": "tt28532006",
+        "poster_path": "/su2APJLMwx4IzAcPHhvoak2k2U1.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
+    "year": "2023",
+    "nominees": [
+      "Invincible"
+    ],
+    "movies": [
+      {
+        "title": "Invincible",
+        "tmdb_id": 1084765,
+        "imdb_id": "tt22749100",
+        "poster_path": "/8mVNi6eq2vbtmEK3elBxIxqAAOD.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
+    "year": "2023",
+    "nominees": [
+      "Knight of Fortune"
+    ],
+    "movies": [
+      {
+        "title": "Knight of Fortune",
+        "tmdb_id": 971468,
+        "imdb_id": "tt26600054",
+        "poster_path": "/d64iSdrRYuBrEDuKXJpW0XSrhiJ.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Live Action Short (Comedy or One Reel or Regular)",
+    "year": "2023",
+    "nominees": [
+      "Red, White and Blue"
+    ],
+    "movies": [
+      {
+        "title": "Red, White and Blue",
+        "tmdb_id": 1194636,
+        "imdb_id": "tt27759823",
+        "poster_path": "/4h1fIQ1b5P21N7tt5dZWDNOjYD7.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Production Design (Color)",
+    "year": "2023",
+    "nominees": [
+      "James Price",
+      "Shona Heath",
+      "Zsuzsa Mihalek"
+    ],
+    "movies": [
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458",
+        "poster_path": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
+      }
+    ],
+    "won": true,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Production Design (Color)",
+    "year": "2023",
+    "nominees": [
+      "Sarah Greenwood",
+      "Katie Spencer"
+    ],
+    "movies": [
+      {
+        "title": "Barbie",
+        "tmdb_id": 346698,
+        "imdb_id": "tt1517268",
+        "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Production Design (Color)",
+    "year": "2023",
+    "nominees": [
+      "Jack Fisk",
+      "Adam Willis"
+    ],
+    "movies": [
+      {
+        "title": "Killers of the Flower Moon",
+        "tmdb_id": 466420,
+        "imdb_id": "tt5537002",
+        "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Production Design (Color)",
+    "year": "2023",
+    "nominees": [
+      "Arthur Max",
+      "Elli Griff"
+    ],
+    "movies": [
+      {
+        "title": "Napoleon",
+        "tmdb_id": 753342,
+        "imdb_id": "tt13287846",
+        "poster_path": "/vcZWJGvB5xydWuUO1vaTLI82tGi.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Production Design (Color)",
+    "year": "2023",
+    "nominees": [
+      "Ruth De Jong",
+      "Claire Kaufman"
+    ],
+    "movies": [
+      {
+        "title": "Oppenheimer",
+        "tmdb_id": 872585,
+        "imdb_id": "tt15398776",
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Cinematography (Color)",
+    "year": "2023",
+    "nominees": [
+      "Hoyte van Hoytema"
+    ],
+    "movies": [
+      {
+        "title": "Oppenheimer",
+        "tmdb_id": 872585,
+        "imdb_id": "tt15398776",
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+      }
+    ],
+    "won": true,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Cinematography (Color)",
+    "year": "2023",
+    "nominees": [
+      "Edward Lachman"
+    ],
+    "movies": [
+      {
+        "title": "El Conde",
+        "tmdb_id": 991708,
+        "imdb_id": "tt21113540",
+        "poster_path": "/5tcbdLbMzYEMBeJwf5PWcgUnmVa.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Cinematography (Color)",
+    "year": "2023",
+    "nominees": [
+      "Rodrigo Prieto"
+    ],
+    "movies": [
+      {
+        "title": "Killers of the Flower Moon",
+        "tmdb_id": 466420,
+        "imdb_id": "tt5537002",
+        "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Cinematography (Color)",
+    "year": "2023",
+    "nominees": [
+      "Matthew Libatique"
+    ],
+    "movies": [
+      {
+        "title": "Maestro",
+        "tmdb_id": 523607,
+        "imdb_id": "tt5535276",
+        "poster_path": "/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Cinematography (Color)",
+    "year": "2023",
+    "nominees": [
+      "Robbie Ryan"
+    ],
+    "movies": [
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458",
+        "poster_path": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Film Editing",
+    "year": "2023",
+    "nominees": [
+      "Jennifer Lame"
+    ],
+    "movies": [
+      {
+        "title": "Oppenheimer",
+        "tmdb_id": 872585,
+        "imdb_id": "tt15398776",
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+      }
+    ],
+    "won": true,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Film Editing",
+    "year": "2023",
+    "nominees": [
+      "Laurent Senechal"
+    ],
+    "movies": [
+      {
+        "title": "Anatomy of a Fall",
+        "tmdb_id": 915935,
+        "imdb_id": "tt17009710",
+        "poster_path": "/kQs6keheMwCxJxrzV83VUwFtHkB.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Film Editing",
+    "year": "2023",
+    "nominees": [
+      "Kevin Tent"
+    ],
+    "movies": [
+      {
+        "title": "The Holdovers",
+        "tmdb_id": 840430,
+        "imdb_id": "tt14849194",
+        "poster_path": "/VHSzNBTwxV8vh7wylo7O9CLdac.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Film Editing",
+    "year": "2023",
+    "nominees": [
+      "Thelma Schoonmaker"
+    ],
+    "movies": [
+      {
+        "title": "Killers of the Flower Moon",
+        "tmdb_id": 466420,
+        "imdb_id": "tt5537002",
+        "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Film Editing",
+    "year": "2023",
+    "nominees": [
+      "Yorgos Mavropsaridis"
+    ],
+    "movies": [
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458",
+        "poster_path": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Visual/Special Effects",
+    "year": "2023",
+    "nominees": [
+      "Takashi Yamazaki",
+      "Kiyoko Shibuya",
+      "Masaki Takahashi",
+      "Tatsuji Nojima"
+    ],
+    "movies": [
+      {
+        "title": "Godzilla Minus One",
+        "tmdb_id": 940721,
+        "imdb_id": "tt23289160",
+        "poster_path": "/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg"
+      }
+    ],
+    "won": true,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Visual/Special Effects",
+    "year": "2023",
+    "nominees": [
+      "Jay Cooper",
+      "Ian Comley",
+      "Andrew Roberts",
+      "Neil Corbould"
+    ],
+    "movies": [
+      {
+        "title": "The Creator",
+        "tmdb_id": 670292,
+        "imdb_id": "tt11858890",
+        "poster_path": "/3dSivDtOuyxLDxPH4v2tcNG1fP7.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Visual/Special Effects",
+    "year": "2023",
+    "nominees": [
+      "Stephane Ceretti",
+      "Alexis Wajsbrot",
+      "Guy Williams",
+      "Theo Bialek"
+    ],
+    "movies": [
+      {
+        "title": "Guardians of the Galaxy Vol. 3",
+        "tmdb_id": 447365,
+        "imdb_id": "tt6791350",
+        "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Visual/Special Effects",
+    "year": "2023",
+    "nominees": [
+      "Alex Wuttke",
+      "Simone Coco",
+      "Jeff Sutherland",
+      "Neil Corbould"
+    ],
+    "movies": [
+      {
+        "title": "Mission: Impossible - Dead Reckoning Part One",
+        "tmdb_id": 575264,
+        "imdb_id": "tt9603212",
+        "poster_path": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Visual/Special Effects",
+    "year": "2023",
+    "nominees": [
+      "Charley Henley",
+      "Luc-Ewen Martin-Fenouillet",
+      "Simone Coco",
+      "Neil Corbould"
+    ],
+    "movies": [
+      {
+        "title": "Napoleon",
+        "tmdb_id": 753342,
+        "imdb_id": "tt13287846",
+        "poster_path": "/vcZWJGvB5xydWuUO1vaTLI82tGi.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Sound Mixing",
+    "year": "2023",
+    "nominees": [
+      "Tarn Willers",
+      "Johnnie Burn"
+    ],
+    "movies": [
+      {
+        "title": "The Zone of Interest",
+        "tmdb_id": 467244,
+        "imdb_id": "tt7160372",
+        "poster_path": "/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg"
+      }
+    ],
+    "won": true,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Sound Mixing",
+    "year": "2023",
+    "nominees": [
+      "Ian Voigt",
+      "Erik Aadahl",
+      "Ethan Van der Ryn",
+      "Tom Ozanich",
+      "Dean Zupancic"
+    ],
+    "movies": [
+      {
+        "title": "The Creator",
+        "tmdb_id": 670292,
+        "imdb_id": "tt11858890",
+        "poster_path": "/3dSivDtOuyxLDxPH4v2tcNG1fP7.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Sound Mixing",
+    "year": "2023",
+    "nominees": [
+      "Steven A. Morrow",
+      "Richard King",
+      "Jason Ruder",
+      "Tom Ozanich",
+      "Dean Zupancic"
+    ],
+    "movies": [
+      {
+        "title": "Maestro",
+        "tmdb_id": 523607,
+        "imdb_id": "tt5535276",
+        "poster_path": "/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Sound Mixing",
+    "year": "2023",
+    "nominees": [
+      "Chris Munro",
+      "James H. Mather",
+      "Chris Burdon",
+      "Mark Taylor"
+    ],
+    "movies": [
+      {
+        "title": "Mission: Impossible - Dead Reckoning Part One",
+        "tmdb_id": 575264,
+        "imdb_id": "tt9603212",
+        "poster_path": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Sound Mixing",
+    "year": "2023",
+    "nominees": [
+      "Willie Burton",
+      "Richard King",
+      "Gary A. Rizzo",
+      "Kevin O'Connell"
+    ],
+    "movies": [
+      {
+        "title": "Oppenheimer",
+        "tmdb_id": 872585,
+        "imdb_id": "tt15398776",
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Makeup and Hairstyling",
+    "year": "2023",
+    "nominees": [
+      "Nadia Stacey",
+      "Mark Coulier",
+      "Josh Weston"
+    ],
+    "movies": [
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458",
+        "poster_path": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
+      }
+    ],
+    "won": true,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Makeup and Hairstyling",
+    "year": "2023",
+    "nominees": [
+      "Karen Hartley Thomas",
+      "Suzi Battersby",
+      "Ashra Kelly-Blue"
+    ],
+    "movies": [
+      {
+        "title": "Golda",
+        "tmdb_id": 899524,
+        "imdb_id": "tt14454876",
+        "poster_path": "/fqOOLq12rOMCTcWzxaJ5VUROxp3.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Makeup and Hairstyling",
+    "year": "2023",
+    "nominees": [
+      "Kazu Hiro",
+      "Kay Georgiou",
+      "Lori McCoy-Bell"
+    ],
+    "movies": [
+      {
+        "title": "Maestro",
+        "tmdb_id": 523607,
+        "imdb_id": "tt5535276",
+        "poster_path": "/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Makeup and Hairstyling",
+    "year": "2023",
+    "nominees": [
+      "Luisa Abel"
+    ],
+    "movies": [
+      {
+        "title": "Oppenheimer",
+        "tmdb_id": 872585,
+        "imdb_id": "tt15398776",
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Makeup and Hairstyling",
+    "year": "2023",
+    "nominees": [
+      "Ana Lopez-Puigcerver",
+      "David Marti",
+      "Montse Ribe"
+    ],
+    "movies": [
+      {
+        "title": "Society of the Snow",
+        "tmdb_id": 906126,
+        "imdb_id": "tt16277242",
+        "poster_path": "/2e853FDVSIso600RqAMunPxiZjq.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Costume Design (Color)",
+    "year": "2023",
+    "nominees": [
+      "Holly Waddington"
+    ],
+    "movies": [
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458",
+        "poster_path": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
+      }
+    ],
+    "won": true,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Costume Design (Color)",
+    "year": "2023",
+    "nominees": [
+      "Jacqueline Durran"
+    ],
+    "movies": [
+      {
+        "title": "Barbie",
+        "tmdb_id": 346698,
+        "imdb_id": "tt1517268",
+        "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Costume Design (Color)",
+    "year": "2023",
+    "nominees": [
+      "Jacqueline West"
+    ],
+    "movies": [
+      {
+        "title": "Killers of the Flower Moon",
+        "tmdb_id": 466420,
+        "imdb_id": "tt5537002",
+        "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Costume Design (Color)",
+    "year": "2023",
+    "nominees": [
+      "Janty Yates",
+      "Dave Crossman"
+    ],
+    "movies": [
+      {
+        "title": "Napoleon",
+        "tmdb_id": 753342,
+        "imdb_id": "tt13287846",
+        "poster_path": "/vcZWJGvB5xydWuUO1vaTLI82tGi.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  },
+  {
+    "category": "Best Costume Design (Color)",
+    "year": "2023",
+    "nominees": [
+      "Ellen Mirojnick"
+    ],
+    "movies": [
+      {
+        "title": "Oppenheimer",
+        "tmdb_id": 872585,
+        "imdb_id": "tt15398776",
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+      }
+    ],
+    "won": false,
+    "categoryType": "movie"
+  }
+]
